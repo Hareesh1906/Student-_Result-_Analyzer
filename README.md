@@ -1,2 +1,4 @@
-# Student-_Result-_Analyzer
-This project is a Python-based application that calculates the SGPA of a student using the SRM grading system.
+Student Result Analyzer – SGPA Calculator
+
+This Python project calculates grades and SGPA for a student based on the University grading system.
+The program accepts marks for subjects, assigns grades, and computes SGPA using grade points.
